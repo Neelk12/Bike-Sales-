@@ -1,2 +1,2 @@
-# Bike-Sales-
+# Bike-Sales
 Bikes sales project in MS Excel
