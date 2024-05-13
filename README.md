@@ -12,16 +12,17 @@ These steps were essential to ensure that the data was properly formatted for an
 Now that we have clean data, we can perform exploratory data analysis to gain insights and patterns in the data.
 
 # Business Questions:
-What is the most common age group of customers who purchase bikes from the shop?
-What is the most common gender of customers who purchase bikes from the shop?
-What is the most common income range of customers who purchase bikes from the shop?
-What is the most common education level of customers who purchase bikes from the shop?
-What is the most common occupation of customers who purchase bikes from the shop?
-What is the most common region of customers who purchase bikes from the shop?
-What is the most common commute distance of customers who purchase bikes from the shop?
-What is the most common number of cars owned by customers who purchase bikes from the shop?
-Does the marital status of customers have any correlation with the likelihood of purchasing a bike from the shop?
-Does being a home owner have any correlation with the likelihood of purchasing a bike from the shop?
+1. What is the most common age group of customers who purchase bikes from the shop?
+2. What is the most common gender of customers who purchase bikes from the shop?
+3. What is the most common income range of customers who purchase bikes from the shop?
+4. What is the most common education level of customers who purchase bikes from the shop?
+5. What is the most common occupation of customers who purchase bikes from the shop?
+6. What is the most common region of customers who purchase bikes from the shop?
+7. What is the most common commute distance of customers who purchase bikes from the shop?
+8. What is the most common number of cars owned by customers who purchase bikes from the shop?
+9. Does the marital status of customers have any correlation with the likelihood of purchasing a bike from the shop?
+10. Does being a home owner have any correlation with the likelihood of purchasing a bike from the shop?
+
 By answering these questions, the bike shop can develop a better understanding of their ideal customer and tailor their marketing strategies to attract more of these customers.
 
 # Data Exploration
@@ -48,9 +49,9 @@ Home ownership: There is no significant correlation between being a homeowner an
 # Recommendations
 Based on these findings, the business can implement the following actionable steps to improve sales:
 
-Target marketing efforts towards the middle age range of 31-50, which is the largest group of bike purchasers. This can be done through targeted advertisements, promotions, and events.
-Cater to the needs and interests of customers in management positions, who are the most prevalent occupation among bike purchasers. This can be done by offering high-end, performance-focused bikes and accessories.
-Focus sales efforts on North America, which is the region where most bike purchases are made. This can involve increasing inventory and offering promotions specific to this region.
-Cater to married customers by offering high-end, performance-focused bikes and accessories. Additionally, consider offering promotions for couples who purchase bikes together.
-Offer affordable bike options for customers who own 2+ cars. The minority of bike purchasers own 2+ cars, this may due to the fact that they are financing the vehicles they own. This can involve offering financing or payment plans for high-end bikes.
-In conclusion, these findings provide valuable insights into the demographics and preferences of bike purchasers. By implementing these actionable steps, the business can improve sales and better cater to the needs and interests of its target market.
+1. Target marketing efforts towards the middle age range of 31-50, which is the largest group of bike purchasers. This can be done through targeted advertisements, promotions, and events.
+2. Cater to the needs and interests of customers in management positions, who are the most prevalent occupation among bike purchasers. This can be done by offering high-end, performance-focused bikes and accessories.
+3. Focus sales efforts on North America, which is the region where most bike purchases are made. This can involve increasing inventory and offering promotions specific to this region.
+4. Cater to married customers by offering high-end, performance-focused bikes and accessories. Additionally, consider offering promotions for couples who purchase bikes together.
+5. Offer affordable bike options for customers who own 2+ cars. The minority of bike purchasers own 2+ cars, this may due to the fact that they are financing the vehicles they own. This can involve offering financing or payment plans for high-end bikes.
+6. In conclusion, these findings provide valuable insights into the demographics and preferences of bike purchasers. By implementing these actionable steps, the business can improve sales and better cater to the needs and interests of its target market.
